@@ -3,8 +3,8 @@
 This project predicts a student’s final exam score based on their study hours and attendance rate using Machine Learning. It also includes statistical analysis and data visualization to understand how study habits impact performance.
 
 ----
-**🚀 Project Overview
-**
+**🚀 Project Overview**
+
 The Study Habit Predictor helps educators and students analyze learning patterns and improve outcomes.
 It uses:
 
